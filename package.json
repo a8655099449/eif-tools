@@ -1,0 +1,11 @@
+{
+  "name": "eif-tools",
+  "version": "1.0.0",
+  "description": "my tools",
+  "main": "index.js",
+  "author": "kuangw",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
